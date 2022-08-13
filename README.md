@@ -1,8 +1,6 @@
 # Single-Cycle-MIPS-Processor
 Using Verilog (simulated and synthesized using Vivado).
 
-![MIPS Block Diagram 1]
-
 The architecture consists of four main blocks: 
 
   ➢ Data Memory. 
